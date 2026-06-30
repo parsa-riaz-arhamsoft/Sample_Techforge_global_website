@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-06-30T13:36:18.444041+00:00",
+  "site_url": "https://sample-techforge-global-website.vercel.app",
+  "score_before": 31,
+  "score_after_estimate": 90,
+  "files_modified": 5,
+  "total_operations": 19,
+  "fixes_applied": [
+    {
+      "file_path": "src/app/about/page.tsx",
+      "operations_applied": 5,
+      "operations_failed": 0,
+      "errors": []
+    },
+    {
+      "file_path": "src/app/contact/page.tsx",
+      "operations_applied": 2,
+      "operations_failed": 0,
+      "errors": []
+    },
+    {
+      "file_path": "src/app/join-us/page.tsx",
+      "operations_applied": 5,
+      "operations_failed": 0,
+      "errors": []
+    },
+    {
+      "file_path": "src/app/page.tsx",
+      "operations_applied": 2,
+      "operations_failed": 0,
+      "errors": []
+    },
+    {
+      "file_path": "src/app/testimonials/page.tsx",
+      "operations_applied": 5,
+      "operations_failed": 0,
+      "errors": []
+    }
+  ]
+}
