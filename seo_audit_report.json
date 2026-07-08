@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-07-08T07:18:17.982976+00:00",
+  "site_url": "https://sample-techforge-global-website.vercel.app",
+  "score_before": 80,
+  "score_after_estimate": 100,
+  "files_modified": 5,
+  "total_operations": 8,
+  "fixes_applied": [
+    {
+      "file_path": "src/app/about/page.tsx",
+      "operations_applied": 0,
+      "operations_failed": 2,
+      "errors": [
+        "Our AI service is temporarily unavailable. Structural fixes were still applied where possible."
+      ]
+    },
+    {
+      "file_path": "src/app/contact/page.tsx",
+      "operations_applied": 0,
+      "operations_failed": 2,
+      "errors": [
+        "Our AI service is temporarily unavailable. Structural fixes were still applied where possible."
+      ]
+    },
+    {
+      "file_path": "src/app/join-us/page.tsx",
+      "operations_applied": 0,
+      "operations_failed": 2,
+      "errors": [
+        "Our AI service is temporarily unavailable. Structural fixes were still applied where possible."
+      ]
+    },
+    {
+      "file_path": "src/app/page.tsx",
+      "operations_applied": 0,
+      "operations_failed": 4,
+      "errors": [
+        "Our AI service is temporarily unavailable. Structural fixes were still applied where possible."
+      ]
+    },
+    {
+      "file_path": "src/app/testimonials/page.tsx",
+      "operations_applied": 0,
+      "operations_failed": 2,
+      "errors": [
+        "Our AI service is temporarily unavailable. Structural fixes were still applied where possible."
+      ]
+    }
+  ]
+}
