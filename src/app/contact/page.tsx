@@ -1,9 +1,1 @@
-import type { Metadata } from "next";
-
-export const metadata: Metadata = {
-  title: "Contact Us",
-  description:
-    "Get in touch with TechForge Global for a free IT staffing consultation.",
-};
-
-export { default } from "./ContactForm";
+import type { Metadata } from \"next\";\nimport { ContactForm } from \"./ContactForm\";\n\nexport const metadata: Metadata = {\n  title: \"Contact Us | TechForge Global — sample-techforge-global-webs\",\n  description: \"Get in touch with TechForge Global for a free IT staffing consultation. Visit sample-techforge-global-website.vercel.app for more.\",\n};\n\nexport { default } from \"./ContactForm\";\n
