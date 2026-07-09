@@ -30,8 +30,7 @@ export default function HomePage() {
               IT Outsourcing & Staffing
             </span>
             <h1 className="text-4xl font-bold leading-tight tracking-tight text-white md:text-5xl lg:text-6xl">
-              Your Partner in{" "}
-              <span className="text-gradient">Staffing Solutions</span>
+              Your Partner in Staffing Solutions
             </h1>
             <p className="mt-6 text-lg leading-relaxed text-slate-400 md:text-xl">
               Elevate your team with specialized IT recruitment solutions
@@ -231,4 +230,3 @@ export default function HomePage() {
       />
     </>
   );
-}
