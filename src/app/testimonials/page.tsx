@@ -3,7 +3,7 @@ import { PageHero, TestimonialCard, CTASection } from "@/components/ui";
 import { testimonials } from "@/lib/site-data";
 
 export const metadata: Metadata = {
-  title: "Testimonials",
+  title: "Testimonials | TechForge Global",
   description:
     "Read what our clients say about TechForge Global's IT outsourcing and staffing services.",
 };
@@ -27,7 +27,7 @@ export default function TestimonialsPage() {
         </div>
       </section>
 
-      <section className="border-t border-white/10 bg-slate-900/30 py-20">
+      <section className="border-t border-white/10 bg-slate-900/30 py-20 md:py-28">
         <div className="mx-auto max-w-4xl px-6 text-center lg:px-8">
           <blockquote className="text-2xl font-medium leading-relaxed text-white md:text-3xl">
             &ldquo;TechForge didn&apos;t just fill roles — they helped us
