@@ -3,7 +3,7 @@ import { PageHero, TestimonialCard, CTASection } from "@/components/ui";
 import { testimonials } from "@/lib/site-data";
 
 export const metadata: Metadata = {
-  title: "Testimonials",
+  title: "Testimonials | TechForge Global",
   description:
     "Read what our clients say about TechForge Global's IT outsourcing and staffing services.",
 };
