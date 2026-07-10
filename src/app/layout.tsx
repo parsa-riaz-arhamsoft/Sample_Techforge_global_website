@@ -6,8 +6,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: `${siteConfig.name} | IT Outsourcing & Staffing`,
-    template: `%s | ${siteConfig.name}`,
+    default: "TechForge Global | IT Outsourcing & Staffing",
+    template: "%s | TechForge Global",
   },
   description: siteConfig.description,
 };
@@ -18,14 +18,4 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className="font-sans antialiased">
-        <div className="flex min-h-screen flex-col bg-slate-950 text-slate-100">
-          <Header />
-          <main className="flex-1">{children}</main>
-          <Footer />
-        </div>
-      </body>
-    </html>
-  );
-}
+    <html lang="en">\n      <body className=\"font-sans antialiased\">\n        <div className=\"flex min-h-screen flex-col bg-slate-950 text-slate-100\">\n          <Header />\n          <main className=\"flex-1\">{children}</main>\n          <Footer />\n        </div>\n      </body>\n    </html>\n  );\n}\n
