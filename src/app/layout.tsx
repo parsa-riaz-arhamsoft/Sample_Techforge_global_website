@@ -6,7 +6,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: `${siteConfig.name} | IT Outsourcing & Staffing`,
+    default: "TechForge Global | IT Outsourcing & Staffing",
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,

@@ -4,7 +4,7 @@ import { PageHero, CTASection } from "@/components/ui";
 import { openRoles } from "@/lib/site-data";
 
 export const metadata: Metadata = {
-  title: "Join Us",
+  title: "Join Us | TechForge Global — sample-techforge-global-website",
   description:
     "Explore career opportunities at TechForge Global or submit your profile as an IT professional.",
 };
