@@ -6,7 +6,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: `${siteConfig.name} | IT Outsourcing & Staffing`,
+    default: "GitHub: Developer Platform for Outsourcing",
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
