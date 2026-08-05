@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: "Testimonials",
   description:
     "Read what our clients say about TechForge Global's IT outsourcing and staffing services.",
+  canonical: "https://sample-techforge-global-website.vercel.app/testimonials",
 };
 
 export default function TestimonialsPage() {

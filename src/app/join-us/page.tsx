@@ -4,9 +4,10 @@ import { PageHero, CTASection } from "@/components/ui";
 import { openRoles } from "@/lib/site-data";
 
 export const metadata: Metadata = {
-  title: "Join Us",
+  title: "Join TechForge Global | Careers in SEO and IT Staffing",
   description:
     "Explore career opportunities at TechForge Global or submit your profile as an IT professional.",
+  canonical: "https://sample-techforge-global-website.vercel.app/join-us",
 };
 
 const benefits = [

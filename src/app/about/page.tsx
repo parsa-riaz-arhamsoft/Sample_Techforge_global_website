@@ -3,9 +3,10 @@ import { PageHero, CTASection, StatCard } from "@/components/ui";
 import { stats } from "@/lib/site-data";
 
 export const metadata: Metadata = {
-  title: "About Us",
+  title: "About TechForge Global | Your SEO Partner in IT Staffing",
   description:
     "Learn about TechForge Global — our mission, values, and 25+ years of experience in IT outsourcing and staffing.",
+  canonical: "https://sample-techforge-global-website.vercel.app/about",
 };
 
 const values = [

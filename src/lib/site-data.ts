@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "TechForge Global",
   tagline: "Your Partner in IT Outsourcing",
   description:
-    "We connect businesses with exceptional IT professionals — developers, designers, engineers, and project managers — to drive innovation and sustainable growth.",
+    "Unlock your business potential with our expert IT staffing solutions. Connect with top talent today and drive innovation.",
   email: "hello@techforgeglobal.com",
   phone: "+1 (555) 234-8900",
   address: "1200 Innovation Drive, Austin, TX 78701",

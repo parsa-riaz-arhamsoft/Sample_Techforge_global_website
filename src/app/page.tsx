@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import {
   ServiceCard,
@@ -14,6 +15,10 @@ import {
   faqs,
   clientLogos,
 } from "@/lib/site-data";
+
+export const metadata: Metadata = {
+  canonical: "https://sample-techforge-global-website.vercel.app",
+};
 
 export default function HomePage() {
   return (
