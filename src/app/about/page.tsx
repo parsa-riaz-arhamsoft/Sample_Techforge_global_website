@@ -3,7 +3,7 @@ import { PageHero, CTASection, StatCard } from "@/components/ui";
 import { stats } from "@/lib/site-data";
 
 export const metadata: Metadata = {
-  title: "About Us",
+  title: "About TechForge Global | IT Services Experts",
   description:
     "Learn about TechForge Global — our mission, values, and 25+ years of experience in IT outsourcing and staffing.",
 };
