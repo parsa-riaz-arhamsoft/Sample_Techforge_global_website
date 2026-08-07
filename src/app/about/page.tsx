@@ -6,7 +6,6 @@ export const metadata: Metadata = {
   title: "About TechForge Global | IT Services Experts",
   description:
     "Learn about TechForge Global — our mission, values, and 25+ years of experience in IT outsourcing and staffing.",
-  canonical: "https://sample-techforge-global-website.vercel.app/about",
 };
 
 const values = [
