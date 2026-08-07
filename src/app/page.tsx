@@ -16,6 +16,15 @@ import {
   clientLogos,
 } from "@/lib/site-data";
 
+export const metadata: Metadata = {
+  title: {
+    default: `${siteConfig.name} | IT Outsourcing & Staffing`,
+    template: `%s | ${siteConfig.name}`,
+  },
+  description: siteConfig.description,
+  canonicalUrl: "https://sample-techforge-global-website.vercel.app",
+};
+
 export default function HomePage() {
   return (
     <>
