@@ -16,6 +16,12 @@ import {
   clientLogos,
 } from "@/lib/site-data";
 
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "https://sample-techforge-global-website.vercel.app",
+  },
+};
+
 export default function HomePage() {
   return (
     <>
